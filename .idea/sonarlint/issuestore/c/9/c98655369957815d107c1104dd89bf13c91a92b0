@@ -1,0 +1,14 @@
+
+n
+java:S1104"QMake words a static final constant or non-public and provide accessors if needed.(È½Ä8²º“­Ü1
+H
+java:S1444"+Make this "public static words" field final(È½Ä8³º“­Ü1
+i	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Úº´8³º“­Ü1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥†ı8³º“­Ü1
+G
+java:S1481"*Remove this unused "limit" local variable.(ªš˜8¸º“­Ü1
+D
+java:S5856"'Fix the syntax error inside this regex.(ÛİƒÔ8¹º“­Ü1
+F
+java:S1481")Remove this unused "skip" local variable.(ÛİƒÔ8¹º“­Ü1

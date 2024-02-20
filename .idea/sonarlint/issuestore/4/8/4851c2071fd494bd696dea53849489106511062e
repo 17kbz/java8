@@ -1,0 +1,18 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬Ó™ì8éÙè«Ü1
+a
+java:S2095""DUse try-with-resources or close this "Stream" in a "finally" clause.(Ô­èî8¸ é«Ü1
+L
+java:S1481"*Remove this unused "empty" local variable.(İ©œ„ıÿÿÿÿ8ÿÙè«Ü1
+J
+java:S1481"-Remove this unused "generate" local variable.(·²äŠ8€Úè«Ü1
+P
+java:S1481".Remove this unused "generate1" local variable.(–Âºğüÿÿÿÿ8€Úè«Ü1
+I
+java:S1481",Remove this unused "iterate" local variable.(âäŠ8Úè«Ü1
+I
+java:S5856!"'Fix the syntax error inside this regex.(¨èíúÿÿÿÿ8‚Úè«Ü1
+S
+java:S1481!"1Remove this unused "stringStream" local variable.(¨èíúÿÿÿÿ8‚Úè«Ü1
+G
+java:S1481""*Remove this unused "lines" local variable.(Ô­èî8ƒÚè«Ü1

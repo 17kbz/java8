@@ -1,0 +1,33 @@
+
+n
+java:S1104"QMake words a static final constant or non-public and provide accessors if needed.(Œ€ç±8ß°Ê¬Ü1
+H
+java:S1444"+Make this "public static words" field final(Œ€ç±8ß°Ê¬Ü1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ý‘«àùÿÿÿÿ8à°Ê¬Ü1
+O
+java:S39587"2Refactor the code so this stream pipeline is used.(¯úÏ±8É¯Ò¬Ü1
+O
+java:S3958"2Refactor the code so this stream pipeline is used.(ÏÍˆÈ8÷°Ê¬Ü1
+T
+java:S39585"2Refactor the code so this stream pipeline is used.(¯Œ¡Éùÿÿÿÿ8á¾Ñ¬Ü1
+T
+java:S3958"2Refactor the code so this stream pipeline is used.(¡í¶ƒúÿÿÿÿ8÷°Ê¬Ü1
+:
+java:S2386"Make this member "protected".(Œ€ç±8ø°Ê¬Ü1
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8û°Ê¬Ü1
+S
+java:S1481"1Remove this unused "stringStream" local variable.(¡í¶ƒúÿÿÿÿ8ý°Ê¬Ü1
+L	java:S106"+Replace this use of System.out by a logger.(Å­ËÝúÿÿÿÿ8þ°Ê¬Ü1
+Q
+java:S2201"/The return value of "toLowerCase" must be used.( ‡½•ÿÿÿÿÿ8þ°Ê¬Ü1
+N
+java:S1481"1Remove this unused "objectStream" local variable.(ÏÍˆÈ8þ°Ê¬Ü1
+Z
+java:S16125"8Replace this lambda with method reference 'FMF::letter'.(¯Œ¡Éùÿÿÿÿ8ë¾Ñ¬Ü1
+S
+java:S14815"1Remove this unused "streamStream" local variable.(¯Œ¡Éùÿÿÿÿ8ì¾Ñ¬Ü1
+U
+java:S16127"8Replace this lambda with method reference 'FMF::letter'.(¯úÏ±8Ô¯Ò¬Ü1
+N
+java:S14817"1Remove this unused "stringStream" local variable.(¯úÏ±8Ô¯Ò¬Ü1
